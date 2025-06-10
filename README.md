@@ -1,77 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+kil4uk!;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
+  <h1>👋 Привет, я kil4uk! 🚀</h1>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
 </div>
 
 ---
 
-### 🌌 Обо мне
+### 🌟 Обо мне
+Я разработчик, увлеченный созданием крутых проектов. Моя цель — писать чистый код и делиться знаниями с сообществом. Люблю Python, JavaScript и кофе ☕.
 
-👋 Привет, я **@kil4uk**!  
+### 🛠 Технологии
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-👀 **Меня интересует**:  
-- Разработка игр и создание сильных сюжетов 🎮  
-- Аниме и его влияние на культуру и медиа 🌌  
-- Исследования персонажей, таких как Гриффит из "Берсерка" 🌱
-
-🌱 **В настоящее время я учусь**:  
-- Unity и C# для создания игр  
-- Lua-скрипты для моддинга (например, в Genshin Impact)  
-- UI/UX-дизайн для стильных интерфейсов
-
-💞️ **Я хочу сотрудничать над**:  
-- Проектами, связанными с аниме-играми или модами  
-- Созданием глубоких персонажей и сюжетных линий для игр  
-- Разработкой кастомных GitHub-профилей с уникальной визуальной эстетикой
-
-📫 **Как со мной связаться**:  
-- Telegram: [@kil4uk](https://t.me/kil4uk)  
-
-😄 **Местоимения**: Он/Его (или укажи свои)
-
-⚡ **Забавный факт**:  
-Я обожаю "Берсерк" и изучаю психоанализ персонажа Гриффита, чтобы глубже понять его мотивацию и влияние на сюжет.
-
----
-
-### 🛠️ Мои навыки
+### 📊 Статистика
 <div align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kil4uk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kil4uk&layout=compact&theme=radical" />
 </div>
-
----
-
-### 📊 Моя статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kil4uk&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kil4uk&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
-</div>
-
----
-
-### 🎨 Мои проекты
-
-- **[Anime Mods]**: Lua-скрипты для моддинга Genshin Impact, такие как авто-телепортация и активация статуй.
-- **[Game Narratives]**: Разработка сюжетных линий и персонажей для игр с глубоким эмоциональным развитием.
-- **[Griffith Analysis]**: Исследую психологию и философию персонажа Гриффита из "Берсерка".
-
----
-
-### 🌍 Проект, который вдохновляет меня
-
-**"Берсерк"**: Это произведение оказывает на меня сильное влияние и я постоянно изучаю философию и психологию персонажа Гриффита, а также его роль в повествовании, чтобы создавать более сложных и многослойных персонажей в моих проектах.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kil4uk&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <p>✨ Спасибо за визит! Давай кодить вместе! ✨</p>
 </div>
-
----
-
-<!---
-kil4uk/kil4uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
