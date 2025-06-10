@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я kil4uk! 🚀</h1>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://i.gifer.com/3TNJ.gif)" width="400"/>
 </div>
 
 ---
@@ -13,14 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 📊 Статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kil4uk&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kil4uk&layout=compact&theme=radical" />
-</div>
-
----
 
 <div align="center">
   <p>✨ Спасибо за визит! Давай кодить вместе! ✨</p>
