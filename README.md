@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я kil4uk! 🚀</h1>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+  <img src="https://i.gifer.com/3TNJ.gif" width="400"/>
 </div>
 
 ---
