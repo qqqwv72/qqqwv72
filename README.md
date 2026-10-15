@@ -10,6 +10,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F5C2E7&center=true&vCenter=true&width=650&lines=Tiny+native+tools;Rust+%2B+Windows+rice;single-binary+philosophy)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://github.com/qqqwv72?tab=followers"><img src="https://img.shields.io/github/followers/qqqwv72?style=flat" alt="followers" /></a>
+  <a href="https://github.com/qqqwv72/mini-editor/stargazers"><img src="https://img.shields.io/github/stars/qqqwv72/mini-editor?style=flat" alt="mini-editor stars" /></a>
+</p>
+
 <img src="/metrics.svg" alt="terminal metrics" />
 </div>
 
