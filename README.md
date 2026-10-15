@@ -43,14 +43,3 @@ Rust + egui in a single ~4 MB binary with zero runtime deps: tiling bspwm-style 
   <br />
   <img src="/metrics.habits.svg" alt="coding habits" />
 </p>
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qqqwv72/qqqwv72/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/qqqwv72/qqqwv72/output/github-snake.svg" alt="contribution snake" />
-</picture>
-
----
-
-<p align="center"><i>profile cards by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · snake by <a href="https://github.com/Platane/snk">Platane/snk</a></i></p>
