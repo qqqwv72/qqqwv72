@@ -1,5 +1,3 @@
-<img src="assets/banner.jpg" width="100%" alt="Code Geass rice banner" />
-
 <h1 align="center">⚡ qqqwv72</h1>
 <p align="center"><i>Tiny native tools. Rust systems programming, Windows rice, single-binary philosophy.</i></p>
 
@@ -32,4 +30,4 @@ Rust + egui in a single ~4 MB binary with zero runtime deps: tiling bspwm-style 
 
 ---
 
-<p align="center"><i>profile cards by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · banner: Code Geass rice</i></p>
+<p align="center"><i>profile cards by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></p>
