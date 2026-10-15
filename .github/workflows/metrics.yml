@@ -1,0 +1,40 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Main terminal card: header + activity + community + repos + achievements + calendar
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: qqqwv72
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Europe/Moscow
+          filename: metrics.svg
+      # Languages card
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: qqqwv72
+          template: classic
+          base: header
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          config_timezone: Europe/Moscow
+          filename: metrics.languages.svg
